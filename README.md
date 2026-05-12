@@ -16,7 +16,7 @@
 ## Скриншоты
 
 ### Экран до запуска таймера
-![До запуска]()
+![До запуска](https://github.com/RuimanSukuna/exz/blob/main/kotlin/OuDlg-psQry3Pb_WVYUyno4HiMblxHGIyqEZE6W6ni2ycmaFkPTqyDThrJAmJUJk6HGgbvrHe3x6zY5f1QBXnGfH.jpg)
 
 ### Экран после завершения отсчёта
 ![Время вышло]()
