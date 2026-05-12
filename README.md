@@ -19,7 +19,7 @@
 ![До запуска](https://github.com/RuimanSukuna/exz/blob/main/kotlin/OuDlg-psQry3Pb_WVYUyno4HiMblxHGIyqEZE6W6ni2ycmaFkPTqyDThrJAmJUJk6HGgbvrHe3x6zY5f1QBXnGfH.jpg)
 
 ### Экран после завершения отсчёта
-![Время вышло]()
+![Время вышло](https://github.com/RuimanSukuna/exz/blob/main/kotlin/wkFrxYqcJCdKGmS2izMYxjSXdPOdHbpQG2tjP2GI-_ZpEaRv2Z9VbQOotA6LhE1gwqTWNb05mvM-v_7IjIrgz_9-.jpg)
 
 ## Код приложения
 
